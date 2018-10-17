@@ -1,7 +1,6 @@
 //ceci est un commentaire//
 function subtract(a, b) {
-    let rep = a-b;
-  return rep;
+  return -b + a;
 }
 
 calculate('subtraction', subtract);
