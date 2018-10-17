@@ -1,5 +1,6 @@
 function subtract(a, b) {
-  return '?';
+    let rep = a-b;
+  return rep;
 }
 
 calculate('subtraction', subtract);
